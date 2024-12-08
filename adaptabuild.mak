@@ -25,10 +25,7 @@ SRC_C :=
 SRC_ASM :=  
 
 # ----------------------------------------------------------------------------
-# Set up the module level source and include paths
-
-$(MODULE)_SRCPATH :=
-$(MODULE)_SRCPATH +=
+# Set up the module level include path
 
 $(MODULE)_INCPATH :=
 $(MODULE)_INCPATH +=
